@@ -1,0 +1,1 @@
+python3 ./mathematical_terms.py 20 >> terms.txt
